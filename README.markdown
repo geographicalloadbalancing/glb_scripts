@@ -19,7 +19,7 @@ Organization of the code
 * `afhc.m`: averaging fixed horizon control.
 
 #### Miscellaneous
-* `validate_params.m: checks for correct dimensions
+* `validate_params.m`: checks for correct dimensions
 * `cost.m`: Evaluates the cost given a proposed solution.
 
 @@@@@Put more stuff here
