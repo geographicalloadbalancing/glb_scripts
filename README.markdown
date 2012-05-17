@@ -5,7 +5,7 @@ Matlab scripts for plotting and visualization of our simulations of geographical
 
 Authors
 ----
-Scripts were initially written by [Minghong Lin](http://users.cms.caltech.edu/~mhlin/).
+Scripts were initially written by [Minghong Lin](http://users.cms.caltech.edu/~mhlin/) and front-ends by [Zhenhua Liu](http://users.cms.caltech.edu/~zliu2/).
 
 Blah blah blah @@@@
 
