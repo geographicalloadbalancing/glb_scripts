@@ -1,4 +1,4 @@
-function [x cvx_optval delay] = hetero_opt(x0, lambda, mu, energy_cost, delay_cost, beta, prop_delay, caps, renewable)
+function [x cvx_optval delay ld_TSJ] = hetero_opt(x0, lambda, mu, energy_cost, delay_cost, beta, prop_delay, caps, renewable)
 
 [S J] = size(prop_delay);
 w = size(renewable,1);
